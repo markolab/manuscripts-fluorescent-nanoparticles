@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools >= 61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qd_analysis"
+requires-python = ">=3.7"
+version = "0.0.1"
+description = "A package for analyzing quantum dot experiments"
+dependencies = [
+	"git+https://github.com/markolab/markovids.git",
+	"opencv-python-headless",
+	"numpy",
+	"pandas",
+	"h5py",
+	"joblib",
+	"nd2",
+	"matplotlib",
+	"scikit-image",
+	"scipy",
+    "seaborn",
+	"toml",
+	"tqdm",
+]
+
