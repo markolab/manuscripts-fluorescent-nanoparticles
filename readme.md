@@ -1,7 +1,7 @@
 # High-resolution in vivo kinematic tracking with injectable fluorescent nanoparticles
 
 ## Authors
-Emine Zeynep Ulutas<sup>1</sup>, Amartya Pradhan<sup>2</sup>, Dorothy Koveal<sup>1</sup>Jeffrey E. Markowitz<sup>1,#</sup>
+Emine Zeynep Ulutas<sup>1</sup>, Amartya Pradhan<sup>2</sup>, Dorothy Koveal<sup>1</sup>Jeffrey E. Markowitz<sup>1,2#</sup>
 
 <br>
 
