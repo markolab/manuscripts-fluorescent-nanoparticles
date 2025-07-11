@@ -1,0 +1,42 @@
+[dirs]
+analysis = "/storage/home/hcoda1/4/jmarkowitz30/shared_folder/active_lab_members/markowitz_jeffrey/active_projects/quantum_dots/_analysis"
+data = "/storage/home/hcoda1/4/jmarkowitz30/shared_folder/active_lab_members/markowitz_jeffrey/active_projects/quantum_dots/_for_paper/ulutas_et_al_data/"
+figs = "/storage/home/hcoda1/4/jmarkowitz30/shared_folder/active_lab_members/markowitz_jeffrey/panels/2025-04 (QD paper round 2)"
+
+[aliases]
+vehicle = "vehicle"
+blank = "blank"
+exp = "qd_cell_labels"
+ab_cell = "qd_cell_labels"
+gel = "qd_alg_caco3"
+alg = "qd_alg"
+saqd = "qd_saqd"
+beads = "qd_beads"
+collagen = "qd_conj_coll"
+coll = "qd_conj_coll_click"
+fibr = "qd_conj_fibro_click"
+bio_fibr = "qd_conj_fibro_bio"
+bio_coll = "qd_conj_coll_bio"
+vasc = "qd_vascular_labels"
+light_test = "qd_vascular_labels_high_light"
+
+# where to parse important metadata in user input
+[parse_metadata]
+chk_fields = ["notes", "session"]
+
+# how to pull hours and days from notes
+# [regex]
+# hours = ['(\d+)h', '(\d+) hrs', '(\d+) hr', '(\d+) post']
+# days = ['(\d+) days']
+
+[typos.subject]
+qd_ep_02 = "qd_exp_02"
+collagen_qd_conjugation_01 = "qd_conjugation_collagen_01"
+collagen_qd_conjugation_02 = "qd_conjugation_collagen_02"
+
+[exclusions]
+dates = ["2024-04-01"]
+subjects = []
+
+[exclusions.pairs]
+qd_beads_08 = "2024-06-10"
