@@ -1,12 +1,12 @@
 # High-resolution in vivo kinematic tracking with injectable fluorescent nanoparticles
 
 ## Authors
-Emine Zeynep Ulutas<sup>1</sup>, Amartya Pradhan<sup>2</sup>, Dorothy Koveal<sup>1</sup>Jeffrey E. Markowitz<sup>1,2#</sup>
+Emine Zeynep Ulutas<sup>1</sup>, Amartya Pradhan<sup>1,2</sup>, Dorothy Koveal<sup>1</sup>Jeffrey E. Markowitz<sup>1,2#</sup>
 
 <br>
 
 <sup>1</sup>Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, Georgia, United States<br>
-<sup>2</sup>Graduate Program in Neuroscience, Emory Unviersity, Atlanta, Georgia, United States<br>
+<sup>2</sup>Neuroscience Graduate Program, Emory Unviersity, Atlanta, Georgia, United States<br>
 
 #Corresponding Author 
 
